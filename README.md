@@ -33,7 +33,11 @@ To set up the CI/CD pipeline in your environment, follow these steps:
 - DockerHub account
 - Docker installed on Jenkins server
 
+## Jenkins Pipeline
+
 ![Jenkins Pipeline Success](https://github.com/sanjula77/CI-CD-with-Jenkins-and-Docker/blob/main/Screenshot%202025-03-08%20141233.png)
+
+## Docker Hub
 
 ![Docker push Success](https://github.com/sanjula77/CI-CD-with-Jenkins-and-Docker/blob/main/Screenshot%202025-03-08%20141409.png)
 
